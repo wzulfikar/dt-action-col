@@ -1,0 +1,27 @@
+{
+  "name": "dt-action-col",
+  "authors": [
+    "wzulfikar <wzulfikar@ymail.com>"
+  ],
+  "description": "Simple jQuery to create edit and delete buttons. Compatible with jQuery datatables.",
+  "main": "src/basicFormHelper.js",
+  "moduleType": [],
+  "keywords": [
+    "datatables",
+    "actions",
+    "column",
+    "buttons"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": ">=1.7.1"
+  }
+}
